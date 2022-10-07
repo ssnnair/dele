@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T17:00:31 IST" name="Default suite" finished-at="2022-09-29T17:00:37 IST" duration-ms="6703">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T17:00:31 IST" name="Default test" finished-at="2022-09-29T17:00:37 IST" duration-ms="6703">
+      <class name="deleteatests.Googlelandingpage">
+        <test-method is-config="true" signature="initalizebrowser()[pri:0, instance:deleteatests.Googlelandingpage@6574a52c]" started-at="2022-09-29T17:00:31 IST" name="initalizebrowser" finished-at="2022-09-29T17:00:34 IST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalizebrowser -->
+        <test-method signature="entername()[pri:1, instance:deleteatests.Googlelandingpage@6574a52c]" started-at="2022-09-29T17:00:34 IST" name="entername" finished-at="2022-09-29T17:00:37 IST" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entername -->
+        <test-method signature="seletingelement()[pri:2, instance:deleteatests.Googlelandingpage@6574a52c]" started-at="2022-09-29T17:00:37 IST" name="seletingelement" finished-at="2022-09-29T17:00:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seletingelement -->
+      </class> <!-- deleteatests.Googlelandingpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
